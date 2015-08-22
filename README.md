@@ -1,11 +1,10 @@
 # datasciencecoursera
 Project for course
 
-and now an edit
 
-## This is  a HEADING with 2 pounds
-### this is a HEADING with 3 pounds (should be smaller)
+## This is  a HEADING with 2 pound signs
+### this is a HEADING with 3 pound signs (should be smaller)
 
 * unordered lists!
-* kinda like wilipedia
+* kinda like wkipidia
 * only more....something
